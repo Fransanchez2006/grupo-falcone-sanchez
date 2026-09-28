@@ -1,4 +1,4 @@
-<!---
+Este proyecto recibe señales digitales a través de sus pines de entrada, procesa la información mediante compuertas lógicas básicas y envía el resultado a las salidas para encender un display de 7 segmentos.<!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
