@@ -1,16 +1,13 @@
-<
 
-Este proyecto recibe señales digitales a través de sus pines de entrada, procesa la información mediante compuertas lógicas básicas y envía el resultado a las salidas para encender un display de 7 segmentos.
--->
 
 ## How it works
 
-Explain how your project works
+Este proyecto recibe señales digitales a través de sus pines de entrada, procesa la información mediante compuertas lógicas básicas y envía el resultado a las salidas para encender un display de 7 segmentos.
 
 ## How to test
 
-Explain how to use your project
+Para probarlo, cambie los valores de los interruptores de entrada (de 0 a 1) en el simulador y observe cómo se actualizan las luces del display en la salida.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED and 7 bits display
